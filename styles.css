@@ -19,6 +19,7 @@ body {
     height: 500px;
     width:1200px ;
     padding-top: 70px;
+    border-radius: 50px;
     
     
 }
@@ -64,5 +65,7 @@ body {
 .card button:hover {
     background-color: #0056b3;
 }
-
+.img{
+    height: 220px;
+}
 
